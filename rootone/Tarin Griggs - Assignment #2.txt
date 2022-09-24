@@ -1,0 +1,33 @@
+
+
+<html> 
+<head>
+  
+<title>Assignment 2</title>
+
+
+</head>
+<body>
+<h1>National Endowment for the Arts<br>Lecture Series Presents ALEXANDRIA!</h1>  
+ <hr>
+  <p>  Alexandria wants to live in a world where all political systems have dissolved into an anarchist playground. <p>
+    <iframe src="https://giphy.com/embed/26FPy3QZQqGtDcrja" width="520" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
+
+
+As a local bodega owner, she has been honored on the <strong>Mills College</strong> campus.<br>
+When she is not is not taking shots of tequila, you can find Alexandria attending a fancy school. <br>
+<p>  
+  
+  <img src="https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/307460060_10158766743786587_5601968055386088593_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=Ct4ggPLI1W0AX8IWfhR&_nc_ht=scontent-sjc3-1.xx&oh=00_AT_S7YH3MdbXGKTjZ5S-36N-9Y9tF8uqHIHTgUtg8je0iA&oe=632B5BC0"/>
+
+
+ <p>
+Her recently released project is <em>Snowy</em> and hits an inbox near you on September 16th, 2022. <br>
+ </p>
+Learn how to throw  a wild party with her at <a href="https://festival.newyorker.com/">The New Yorker Festival</a>. RSVP by September 17, 2022 and taringriggs@gmail.com.
+ </p>
+ <hr> 
+</body>
+
+
+</html>
